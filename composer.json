@@ -1,0 +1,19 @@
+{
+    "name": "mohiuddin27/oopstu",
+    "description": "This is a CURDV project for student development",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Mohiuddin",
+            "email": "sobujmohiuddin1426@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
